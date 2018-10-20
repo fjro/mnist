@@ -1,3 +1,4 @@
 *.csv
 *.DS_store
-*.Rproj
+*.Rproj*
+.Rproj.user
